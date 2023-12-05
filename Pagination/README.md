@@ -1,3 +1,8 @@
+
+![Clipboard01](https://github.com/yuchormanski/ComponentsLibrary/assets/693307/8cccd0ab-d342-4d26-9185-239a67bc8d65)
+
+
+
 ### not need css module
 
 ## Place next in parent Component
