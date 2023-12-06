@@ -37,7 +37,7 @@ useEffect(
       setCurrentPage(dataArray[page - 1]);
     }
   },
-  [page]
+  [dataReceived, page]
 );
 ```
 
