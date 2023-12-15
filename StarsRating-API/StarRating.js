@@ -13,8 +13,8 @@ const starContainerStyle = {
 };
 
 // usage
-// const [movieRating, setMovieRating] = useState(0);
-// <StarsRating color="#FFA81E" maxRating={4} onSetRating={setMovieRating} and-so-on/>;
+// const [compRating, setCompRating] = useState(0);
+// <StarsRating color="#FFA81E" maxRating={4} onSetRating={setCompRating} and-so-on/>;
 
 StarsRating.propTypes = {
   // maxRating: PropTypes.number.isRequired,
